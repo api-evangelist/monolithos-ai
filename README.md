@@ -64,18 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Monolithos provides a Personal Agent OS that combines memory, AI, and user‑owned data to act as a sovereign digital assistant. It offers modules such as Memory, Flow, Black Hole, Minutes, Codex, Prism, Audio, and more, targeting individuals and enterprises who want persistent, controllable AI assistance without lock‑in. Users can trial for 7 days, then choose tiered plans with access to multiple AI models and compute resources.
+Monolithos provides a personal agent operating system that combines memory, AI, and task automation. Users own their data, set goals, and the platform connects across devices to act on their behalf, offering free trials, subscription plans, and integrations with tools like Obsidian. The service emphasizes data sovereignty, privacy, and user‑controlled memory, targeting individuals and enterprises seeking AI‑enhanced productivity.
 
-**Areas:** PersonalAgent · AI · Memory · SaaS · Productivity
+**Areas:** Personal Agent · Enterprise Tools · Cross‑Platform
 
 ## Monolithos on APIs.io
 
 Everything profiled for Monolithos is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/monolithos-ai/](https://apis.io/providers/monolithos-ai/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
+### APIs (1)
 
-- [Monolithos API](https://apis.io/apis/monolithos-ai/monolithos-api/) — Monolithos provides a personal AI assistant platform with modules for memory, flow, and more. Documentation is at…
-- [Monolithos API](https://apis.io/apis/monolithos-ai/monolithos-ai-api/) — Monolithos API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-18); not the provider's own document.
+- [Monolithos API](https://apis.io/apis/monolithos-ai/monolithos-ai-api/) — Monolithos API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
 
 ### Published properties
 
@@ -111,11 +110,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 34.4** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 33.6** — thin · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 53.6 |
+| Discoverability | 44.6 |
 | Contract quality | 33.7 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
@@ -149,7 +148,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/monolithos-ai/](https://apis.io/providers/monolithos-ai/).
 
